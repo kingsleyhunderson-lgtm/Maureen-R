@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.farmersnational.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	b23b43b48adf0c2a44a584c936d38323f6dfb620a9b637b6f4d9be6cbae28cfea%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22dU4uB-5KWIyJ48_PHX6RY4TLdhYNgltZvckczrSO%22%3B%7D
+www.farmersnational.com	TRUE	/	FALSE	1999999999	SameSite	None
+
